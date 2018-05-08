@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDatabaseAccess.WebAppDemo", "RepositoryDatabaseAccess.WebAppDemo\RepositoryDatabaseAccess.WebAppDemo.csproj", "{2ADB47A2-353F-47C7-87B1-A52A224FB757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDatabaseAccess", "RepositoryDatabaseAccess\RepositoryDatabaseAccess.csproj", "{39FBDDFF-722E-421D-8B34-77276A5BA522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ADB47A2-353F-47C7-87B1-A52A224FB757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADB47A2-353F-47C7-87B1-A52A224FB757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADB47A2-353F-47C7-87B1-A52A224FB757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADB47A2-353F-47C7-87B1-A52A224FB757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FBDDFF-722E-421D-8B34-77276A5BA522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FBDDFF-722E-421D-8B34-77276A5BA522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FBDDFF-722E-421D-8B34-77276A5BA522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FBDDFF-722E-421D-8B34-77276A5BA522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

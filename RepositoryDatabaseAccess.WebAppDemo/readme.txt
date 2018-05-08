@@ -1,7 +1,4 @@
-# RepositoryDatabaseAccess
-C# utils to implement Repository Pattern for database access
-
-RepositoryDatabaseAccess Demo
+﻿RepositoryDatabaseAccess Demo
 
 Setup:
 1) Create a database on a server of your own
