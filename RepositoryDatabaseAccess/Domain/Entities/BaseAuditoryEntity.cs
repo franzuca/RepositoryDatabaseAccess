@@ -14,5 +14,10 @@ namespace RepositoryDatabaseAccess.Domain.Entities
         {
             CreationDate = DateTime.Now;
         }
+
+        public AuditoryEntity()
+        {
+            SetCreationAuditoryInfo();
+        }
     }
 }

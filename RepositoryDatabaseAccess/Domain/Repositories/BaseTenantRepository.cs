@@ -26,6 +26,7 @@ namespace RepositoryDatabaseAccess.Domain.Repositories
 
         public override void Add(TEntity entity)
         {
+            entity.TenantID = TenantID;
             if (entity.TenantID == 0 && entity.Tenant == null)
             {
                 throw new TenantEntityWithoutTenantException<TEntity, TTenantEntity>();
